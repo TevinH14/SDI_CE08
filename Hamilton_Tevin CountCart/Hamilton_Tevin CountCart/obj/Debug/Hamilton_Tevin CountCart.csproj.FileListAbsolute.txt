@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin CountCart\Hamilton_Tevin CountCart\bin\Debug\Hamilton_Tevin CountCart.exe.config
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin CountCart\Hamilton_Tevin CountCart\bin\Debug\Hamilton_Tevin CountCart.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin CountCart\Hamilton_Tevin CountCart\bin\Debug\Hamilton_Tevin CountCart.pdb
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin CountCart\Hamilton_Tevin CountCart\obj\Debug\Hamilton_Tevin CountCart.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin CountCart\Hamilton_Tevin CountCart\obj\Debug\Hamilton_Tevin CountCart.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin CountCart\Hamilton_Tevin CountCart\obj\Debug\Hamilton_Tevin CountCart.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin CountCart\Hamilton_Tevin CountCart\obj\Debug\Hamilton_Tevin CountCart.pdb
